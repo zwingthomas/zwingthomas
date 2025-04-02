@@ -1,4 +1,8 @@
-👋 Hi, I'm Thomas Zwinger! I asked ChatGPT to make a profile README for me based on what it has learned. Like with most things, it's about 85% accurate, so let me know if you can pick out the falsehoods.
+👋 Hi, I'm Thomas Zwinger! 
+
+I asked ChatGPT to make a profile README for me based on what it has learned. Like with most things, it's about 85% accurate, so let me know if you can pick out the falsehoods.
+
+
 
 # 🌟 About Me:
 
