@@ -1,6 +1,6 @@
 👋 Hi, I'm Thomas Zwinger! I asked ChatGPT to make a profile README for me based on what it has learned. Like with most things, it's about 85% accurate, so let me know if you can pick out the falsehoods.
 
-🌟 About Me:
+# 🌟 About Me:
 
 👩‍💻 I'm a full-stack developer passionate about building meaningful and scalable web applications.
 
@@ -8,7 +8,7 @@
 
 📚 I'm always eager to dive deeper into tech stacks like AWS, Kubernetes, MongoDB, React, Express, Terraform, and more!
 
-✨ Skills:
+# ✨ Skills:
 
 ☁️ AWS | Kubernetes | Azure
 
@@ -20,7 +20,7 @@
 
 🎤 Audio & podcast setup enthusiast (Shure SM7DB)
 
-🌱 Currently Learning:
+# 🌱 Currently Learning:
 
 🎹 Piano (goal: proficient within a year!)
 
@@ -28,7 +28,7 @@
 
 🍽️ Nutrition and fitness to gain muscle and live healthily
 
-💡 Fun Facts:
+# 💡 Fun Facts:
 
 🥩 Previously worked at a Michelin-star steakhouse.
 
@@ -38,7 +38,7 @@
 
 🐾 Housewife, student, and dedicated learner with a creative edge.
 
-💖 Personal Interests:
+# 💖 Personal Interests:
 
 🎬 Building awesome streaming services (and occasionally watching movies)
 
@@ -48,7 +48,7 @@
 
 💌 Happily married and enjoying life with my amazing wife.
 
-📫 Let's Connect:
+# 📫 Let's Connect:
 
 Feel free to reach out to collaborate, chat about tech, fitness, poetry, or anything in between!
 
