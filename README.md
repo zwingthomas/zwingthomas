@@ -1,8 +1,11 @@
 👋 Hi, I'm Thomas Zwinger! 
 
-I asked ChatGPT to make a profile README for me based on what it has learned. Like with most things, it's about 85% accurate, so let me know if you can pick out the falsehoods.
+
+I just got my Google Cloud Platform: Professional Cloud Architect certification in April 2025. 
+This certification has an average salary of $190k ([source](https://www.skillsoft.com/blog/top-paying-google-cloud-certifications)), while I don't require that for my next postition. I do ask that companies are open and honest about what I will be working on. As I'd like it to be very interesting and challenging.
 
 
+For the rest of my bio I asked ChatGPT to make a profile README for me based on what it has learned. Like with most things, it's about 85% accurate, so let me know if you can pick out the falsehoods.
 
 # 🌟 About Me:
 
